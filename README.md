@@ -3,7 +3,9 @@
 I am a senior fullstack software engineer (Python/Django, Angular, ReactNative, AWS) with Devops, continuous integration and deployment experience including performance monitoring and alerting.
 
 - 🔭 I’m currently working on React Native app that supports demand-based resupply procedures and connects local (Kenya) community health workers to their resupply facility (https://play.google.com/store/apps/details?id=com.cstock)
+
 - 📫 How to reach me: phillipabishai@gmail.com or abishai@abishai.co
+
 - ⚡ Fun fact: I use the light themes in my IDE 😄
 
 ### Background
