@@ -13,7 +13,7 @@ I started off in tech support after graduating. I didnt like the fact that I did
 
 I had learnt a bit of software development in my undergrad but didnt really practice it so I had to refresh myself by doing. I made an app for the place I was working for at the time that provided a report submission portal for the reports they needed from different counties in Kenya and provided a central repository that made it easier to search for a report and get information that you needed from any report.
 
-Fast forward to today and its been a long journey from mainly JSF and content management systems to now mainly doing projects in **Javascript** and **Python** with proper CI/CD pipelines, secure servers for deployment and hosting and even add some docker containers if it makes sense.
+Fast forward to today and its been a long journey from mainly JSF and content management systems to now mainly doing projects in **Javascript** and **Python** with proper CI/CD pipelines, secure servers for hosting and even add some docker containers if it makes sense.
 
 ### Technology Stacks
 **Javascript**
