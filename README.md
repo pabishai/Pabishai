@@ -1,6 +1,6 @@
 ### Hi there I am Abishai Omari 👋 
 
-A fullstack software engineer (Python/Django, Angular, ReactNative, AWS) with Devops, continuous integration and deployment experience including performance monitoring and alerting.
+A leader in tech and a fullstack software engineer (Python/Django, Angular, ReactNative, AWS) with Devops, continuous integration and deployment experience including performance monitoring and alerting.
 
 - 🔭 I’m currently working on React Native app that supports demand-based resupply procedures and connects local (Kenya) community health workers to their resupply facility (https://play.google.com/store/apps/details?id=com.cstock)
 
