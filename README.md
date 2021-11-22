@@ -2,9 +2,9 @@
 
 A leader in tech and a fullstack software engineer (Python/Django, Angular, ReactNative, AWS) with Devops, continuous integration and deployment experience including performance monitoring and alerting.
 
-- 🔭 I’m currently working on React Native app that supports demand-based resupply procedures and connects local (Kenya) community health workers to their resupply facility (https://play.google.com/store/apps/details?id=com.cstock)
+- 🔭 I’m currently the director of engineering steering the direction of a platform that enables distributed manufacturing of jewelery and manages the entire workflow from reception of the order to delivery of the product.
 
-- 📫 How to reach me: phillipabishai@gmail.com or abishai@abishai.co
+- 📫 How to reach me: phillipabishai@gmail.com or abishai@abishai.co or abishai@shopsoko.com
 
 - ⚡ Fun fact: I use the light themes in my IDE 😄
 
