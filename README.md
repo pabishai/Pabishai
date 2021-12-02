@@ -1,7 +1,6 @@
 ### Hi there I am Abishai Omari 👋 
 
-Senior leader in technology, software architect and developer helping organizations build scalable platforms that add value to their line of work
-
+Senior leader in technology, software architect and developer helping organizations build scalable platforms.
 - 🔭 I’m currently the director of engineering steering the direction of a platform that enables distributed manufacturing of jewelery and manages the entire workflow from reception of the order to delivery of the product.
 
 - 📫 How to reach me: phillipabishai@gmail.com or abishai@abishai.co or abishai@shopsoko.com
