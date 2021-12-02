@@ -1,6 +1,6 @@
 ### Hi there I am Abishai Omari 👋 
 
-A leader in tech and a fullstack software engineer (Python/Django, Angular, ReactNative, AWS) with Devops, continuous integration and deployment experience including performance monitoring and alerting.
+Senior leader in technology, software architect and developer helping organizations build scalable platforms that add value to their line of work
 
 - 🔭 I’m currently the director of engineering steering the direction of a platform that enables distributed manufacturing of jewelery and manages the entire workflow from reception of the order to delivery of the product.
 
